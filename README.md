@@ -98,8 +98,9 @@ while (1)
 ``````
 ## OUTPUT  :
  ![Screenshot 2024-08-17 104534](https://github.com/user-attachments/assets/17374f9c-794c-4bfb-81e0-e0a18e74e999)
+![WhatsApp Image 2025-09-06 at 09 30 43_b4c976ce](https://github.com/user-attachments/assets/25a333ca-ddb7-4587-aadf-ac8fe5110d86)
+![WhatsApp Image 2025-09-06 at 09 30 43_0cf885ce](https://github.com/user-attachments/assets/d7bb2a1e-5b6c-4c2e-ae6a-697278ae2dd0)
 
- 
  
  
 ## Result :
